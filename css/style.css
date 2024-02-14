@@ -142,6 +142,8 @@ img {
     .why-us{
         background-color: black;
         color: #B8C1EC;
+        margin-bottom: 0;
+        padding: 24px 0;
        
     }
     .why-us .col{
@@ -165,7 +167,9 @@ img {
     .steps{
         margin: 0;
     }
-    .steps .row{
+    .steps .row .col{
+        width: 100%;
+        padding: 24px 0;
         
     }
     
